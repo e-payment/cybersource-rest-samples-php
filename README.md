@@ -1,6 +1,6 @@
 # PHP Sample Code for the CyberSource SDK
 
-[![Build Status](https://travis-ci.org/CyberSource/cybersource-rest-samples-php.svg?branch=master)](https://travis-ci.org/CyberSource/cybersource-rest-samples-php)
+[![Build Status](https://app.travis-ci.com/CyberSource/cybersource-rest-samples-php.svg?branch=master)](https://app.travis-ci.com/CyberSource/cybersource-rest-samples-php)
 
 This repository contains working code samples which demonstrate PHP integration with the CyberSource REST APIs through the [CyberSource PHP SDK](https://github.com/CyberSource/cybersource-rest-client-php).
  
@@ -124,8 +124,6 @@ For the old run environments previously used, they should be replaced by the fol
 |`cybersource.environment.mutualauth.PRODUCTION`|`api-ma.cybersource.com`                        |
 |`cybersource.in.environment.SANDBOX`           |`apitest.cybersource.com`                       |
 |`cybersource.in.environment.PRODUCTION`        |`api.in.cybersource.com`                        |
-|`cybesource.environment.SIT`                   |`pnrstage.ic3.com:8451`                         |
-|`cybesource.environment.mutualauth.SIT`        |`pnrstage.ic3.com:8451`                         |
 
 For example, replace the following code in the Configuration file:
 
